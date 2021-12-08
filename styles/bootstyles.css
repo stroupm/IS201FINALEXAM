@@ -1,0 +1,44 @@
+.header {
+    top: 5px;
+    left: 45px;
+    right: 45px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+}
+.links {
+    font-size: larger;
+}
+.footer {
+    bottom: 20px;
+    height: 20px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+    text-align: center;
+    border: none;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    border: none;
+    width: 50%;
+    margin: 0 auto;
+    height: 80%;
+}
+.captions {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+.background {
+    background-color: steelblue;
+}
+.copyright {
+    color: white;
+}
+.textcolor {
+    color: steelblue ;
+}

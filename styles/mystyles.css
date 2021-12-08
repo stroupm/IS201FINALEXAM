@@ -1,0 +1,49 @@
+.headertext {
+    color: rgb(158, 3, 158);
+}
+.edu {
+    text-align: center;
+    color: rgb(0, 50, 201);
+}
+.underline {
+    text-decoration: underline;
+}
+.postphoto {
+    width: 500px;
+}
+.centers {
+    text-align: center;
+}
+.backgroundcolor {
+    color: rgb(148, 162, 177);
+}
+.background1 {
+    background-color: rgb(253, 229, 233);
+}
+.background2 {
+    background-color: rgb(253, 231, 190);
+}
+.background3 {
+    background-color: rgb(185, 188, 192);
+}
+.background4 {
+    background-color: white;
+}
+.copyright {
+    color: royalblue;
+}
+.bold {
+    font-style: bold;
+}
+.titletext {
+    color:  rgb(253, 231, 190);
+}
+.maintext {
+    color: rgb(243, 96, 123);
+}
+.headers {
+    text-align: center;
+}
+.postphoto2 {
+    width: 200px;
+}
